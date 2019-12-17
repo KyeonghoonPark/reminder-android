@@ -1,0 +1,76 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dimen_5">5dp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="dimen_20">20dp</dimen>
+    <dimen name="dimen_30">30dp</dimen>
+    <dimen name="dimen_40">40dp</dimen>
+    <dimen name="dimen_50">50dp</dimen>
+    <dimen name="dimen_80">80dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">18dp</dimen>
+    <dimen name="nav_header_height">240dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="txtSize">14sp</dimen>
+
+
+    <!-- JS -->
+    <dimen name="title_height">50dp</dimen>
+    <dimen name="setting_height">40dp</dimen>
+    <dimen name="popup_top_margin">41dp</dimen>
+    <dimen name="button_normal_width">148dp</dimen>
+    <dimen name="button_normal_height">36dp</dimen>
+    <dimen name="button_short_width">93dp</dimen>
+    <dimen name="register_edit_height">40dp</dimen>
+    <dimen name="register_edit_margin">11.7dp</dimen>
+
+    <dimen name="back_margin_top">8dp</dimen>
+    <dimen name="back_margin_bottom">8dp</dimen>
+    <dimen name="back_margin_left">17dp</dimen>
+    <dimen name="back_margin_right">10dp</dimen>
+    <dimen name="ic_nav_margin">20dp</dimen>
+    
+    <dimen name="comment_popup_width">320dp</dimen>
+    <dimen name="comment_popup_margin">3dp</dimen>
+
+    <!-- PK -->
+    <dimen name="dialog_button_height">36dp</dimen>
+    <dimen name="dialog_button_width">93dp</dimen>
+    <dimen name="dialog_button_margin_bottom">36dp</dimen>
+
+    <!-- PK view line -->
+    <dimen name="view_line_height">1dp</dimen>
+    <dimen name="view_line_top_margin_top">19.7dp</dimen>
+    <dimen name="view_line_top_margin_bottom">24.3dp</dimen>
+    <dimen name="view_line_bottom_margin_top">25.7dp</dimen>
+    <dimen name="view_line_bottom_margin_bottom">23dp</dimen>
+
+
+    <!--admob-->
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="default_padding_small">8dp</dimen>
+    <dimen name="default_padding_large">24dp</dimen>
+    <dimen name="default_padding_xlarge">40dp</dimen>
+    <dimen name="tool_bar_height">56dp</dimen>
+    <dimen name="default_elevation">8dp</dimen>
+    <dimen name="toolbar_elevation">0dp</dimen>
+    <dimen name="default_radius">3dp</dimen>
+    <dimen name="btn_padding_left_right">15dp</dimen>
+    <dimen name="btn_padding_top_bottom">10dp</dimen>
+    <dimen name="list_item_container_padding">16dp</dimen>
+    <dimen name="list_item_container_padding_small">8dp</dimen>
+    <dimen name="list_item_avatar_size_small">24dp</dimen>
+    <dimen name="list_item_avatar_size">40dp</dimen>
+    <dimen name="list_item_avatar_size_large">56dp</dimen>
+    <dimen name="list_item_avatar_size_xlarge">72dp</dimen>
+    <dimen name="list_item_text_margin">3dp</dimen>
+    <dimen name="recommend_icon_size">48dp</dimen>
+
+
+    <dimen name="user_add_line_margin">8dp</dimen>
+    <dimen name="user_add_title_width">105dp</dimen>
+    <dimen name="fontsize_user_add">17dp</dimen>
+    <dimen name="user_add_item_height">54dp</dimen>
+</resources>
